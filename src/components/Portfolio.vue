@@ -27,7 +27,7 @@
       <div class="card selectable mx-2">
 
         <p class="fs-4 p-2 text-center">Tower</p>
-        <img class=" img-fluid keepr" :src="'/src/assets/img/tower.png'" alt="screenshot of KeeprAp">
+        <img class=" img-fluid keepr" :src="'./src/assets/img/tower.png'" alt="screenshot of KeeprAp">
       </div>
       <div class="card selectable mx-2">
         <p class="fs-4 p-2 text-center">theNetwork</p>
