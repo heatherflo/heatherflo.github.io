@@ -14,25 +14,25 @@
   <div class="card selectable mx-2">
         <p class="fs-4 p-2 text-center">Keepr</p>
 
-        <img class=" img-fluid keepr" :src="'src/assets/img/keepr.png'" alt="screenshot of KeeprAp">
+        <img class=" img-fluid keepr" :src="'/src/assets/img/keepr.png'" alt="screenshot of KeeprAp">
       </div>
     
       <div class="card selectable mx-2">
 
         <p class="fs-4 p-2 text-center">allSpice</p>
-        <img class=" img-fluid keepr" :src="'src/assets/img/allSpice.png'" alt="screenshot of KeeprAp">
+        <img class=" img-fluid keepr" :src="'/src/assets/img/allSpice.png'" alt="screenshot of KeeprAp">
     
       </div>
 
       <div class="card selectable mx-2">
 
         <p class="fs-4 p-2 text-center">Tower</p>
-        <img class=" img-fluid keepr" :src="'src/assets/img/tower.png'" alt="screenshot of KeeprAp">
+        <img class=" img-fluid keepr" :src="'/src/assets/img/tower.png'" alt="screenshot of KeeprAp">
       </div>
       <div class="card selectable mx-2">
         <p class="fs-4 p-2 text-center">theNetwork</p>
 
-        <img class=" img-fluid keepr" :src="'src/assets/img/theNetwork.png'" alt="screenshot of KeeprAp">
+        <img class=" img-fluid keepr" :src="'/src/assets/img/theNetwork.png'" alt="screenshot of KeeprAp">
       </div>
   </div>
 

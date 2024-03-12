@@ -2,7 +2,7 @@
 
 <div class="col-12 portfolio d-flex flex-column justify-content-center align-items-center ">
 <div>
-  <img class="img-fluid me" :src="'src/assets/img/me2.jpeg'" alt="self portrait of Heather Johnson">
+  <img class="img-fluid me" :src="'/src/assets/img/me2.jpeg'" alt="self portrait of Heather Johnson">
 </div>
 <div class="name">
 Heather Johnson
