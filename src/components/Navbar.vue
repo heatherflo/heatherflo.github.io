@@ -13,7 +13,7 @@
 
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto">
-        <li >
+        <li>
           <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable ">
             Portfolio
           </router-link>
@@ -58,6 +58,7 @@ a:hover {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
+
 .font {
   font-family: "Shadows Into Light", cursive;
   font-weight: 400;
