@@ -50,7 +50,7 @@
         <!-- <div class="carousel-item active">
         <img src="src/assets/img/backpack.jpg" class="d-block w-75" alt="...">
       </div> -->
-        <div class="carousel-item">
+        <div class="carousel-item active">
           <img src="/img/bluelake.jpg" class="d-block w-95" alt="...">
         </div>
         <div class="carousel-item">
