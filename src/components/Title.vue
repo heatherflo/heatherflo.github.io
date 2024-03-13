@@ -8,8 +8,8 @@
       Heather Johnson
     </div>
 
-    <div>
-      Software Developer | Photographer
+    <div class="fs-2">
+      Software Developer
     </div>
 
   </div>

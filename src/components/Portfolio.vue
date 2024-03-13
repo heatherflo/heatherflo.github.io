@@ -10,12 +10,14 @@
   </div>
   <hr class="m-3">
   <div class="d-flex col-12 justify-content-center  ">
+    <a href="https://keepr.heathermaejohnson.com">
 
-    <div class="card selectable mx-2">
-      <p class="fs-4 p-2 text-center">Keepr</p>
+      <div class="card selectable mx-2">
+        <p class="fs-4 p-2 text-center">Keepr</p>
 
-      <img class=" img-fluid keepr" src="/img/keepr.png" alt="screenshot of KeeprAp">
-    </div>
+        <img class=" img-fluid keepr" src="/img/keepr.png" alt="screenshot of KeeprAp">
+      </div>
+    </a>
 
     <!-- <div class="card selectable mx-2">
 
@@ -23,7 +25,7 @@
       <img class=" img-fluid keepr" src="/img/allSpice.png" alt="screenshot of KeeprAp">
 
     </div> -->
-
+    <a href="https://tower.heathermaejohnson.com"></a>
     <div class="card selectable mx-2">
 
       <p class="fs-4 p-2 text-center">Tower</p>

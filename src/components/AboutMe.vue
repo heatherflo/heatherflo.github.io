@@ -1,8 +1,21 @@
 <template>
   <div class="font">
     <p class="m-3 text-center ">About Me</p>
+    <p>
+
+      Mom of 5, previous photographer and CEO of Floyd Family Photography, avid outdoor adventurer, Heather is a newly
+      reinvented software developer. She is excited to work front end applications in order to help companies sell their
+      products effectively and efficiently. Making beautiful designs functional to move businesses toward their goals,
+      is
+      her desire and ambition.
+    </p>
+    <button class="text-center m-3" onclick="sendEmail()">
+      Contact Heather
+    </button>
     <hr class="m-3">
-    <p class="m-3 text-center fs-2 ">Heather is the best</p>
+    <p class="m-3 text-center fs-2 ">
+      <a href="https://www.linkedin.com/in/heathermjohnsonwebdev/"><i class="mdi mdi-linkedin"></i></a>
+    </p>
   </div>
 </template>
 
@@ -10,7 +23,14 @@
 <script>
 export default {
   setup() {
-    return {}
+    function sendEmail() {
+      window.location = "mailto:heathermjohnsonwebdev@gmail.com";
+
+    }
+    return {
+      sendEmail
+
+    }
   }
 }
 </script>
