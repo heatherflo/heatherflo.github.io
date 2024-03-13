@@ -9,7 +9,7 @@
     <p class="text-center m-3">Applications</p>
   </div>
   <hr class="m-3">
-  <div class="d-flex col justify-content-center  ">
+  <div class="d-flex col-12 justify-content-center  ">
 
     <div class="card selectable mx-2">
       <p class="fs-4 p-2 text-center">Keepr</p>
@@ -17,39 +17,39 @@
       <img class=" img-fluid keepr" src="/img/keepr.png" alt="screenshot of KeeprAp">
     </div>
 
-    <div class="card selectable mx-2">
+    <!-- <div class="card selectable mx-2">
 
       <p class="fs-4 p-2 text-center">allSpice</p>
       <img class=" img-fluid keepr" src="/img/allSpice.png" alt="screenshot of KeeprAp">
 
-    </div>
+    </div> -->
 
     <div class="card selectable mx-2">
 
       <p class="fs-4 p-2 text-center">Tower</p>
-      <img class=" img-fluid keepr" src="/img/tower.png" alt="screenshot of KeeprAp">
+      <img class=" img-fluid keepr" src="/img/tower.png" alt="screenshot of TowerAp">
     </div>
-    <div class="card selectable mx-2">
+    <!-- <div class="card selectable mx-2">
       <p class="fs-4 p-2 text-center">theNetwork</p>
 
       <img class=" img-fluid keepr" src="/img/theNetwork.png" alt="screenshot of KeeprAp">
-    </div>
+    </div> -->
   </div>
 
-  <section class="row">
+  <!-- <section class="row">
     <div class="font">
 
       <p class="m-3 text-center m-3">Pictures</p>
-    </div>
+    </div> -->
 
-    <!-- carrousel -->
+  <!-- carrousel -->
 
 
-    <div id="portfolio" class="carousel slide carousel-dark" data-bs-ride="carousel">
+  <!-- <div id="portfolio" class="carousel slide carousel-dark" data-bs-ride="carousel">
       <div class="carousel-inner">
-        <!-- <div class="carousel-item active">
+        <div class="carousel-item active">
         <img src="src/assets/img/backpack.jpg" class="d-block w-75" alt="...">
-      </div> -->
+      </div>
         <div class="carousel-item active">
           <img src="/img/bluelake.jpg" class="d-block w-95" alt="...">
         </div>
@@ -113,10 +113,10 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
       </button>
-    </div>
+    </div> -->
 
 
-  </section>
+  <!-- </section> -->
 
 
 
