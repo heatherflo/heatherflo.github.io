@@ -25,12 +25,14 @@
       <img class=" img-fluid keepr" src="/img/allSpice.png" alt="screenshot of KeeprAp">
 
     </div> -->
-    <a href="https://tower.heathermaejohnson.com"></a>
-    <div class="card selectable mx-2">
+    <a href="https://tower.heathermaejohnson.com">
 
-      <p class="fs-4 p-2 text-center">Tower</p>
-      <img class=" img-fluid keepr" src="/img/tower.png" alt="screenshot of TowerAp">
-    </div>
+      <div class="card selectable mx-2">
+
+        <p class="fs-4 p-2 text-center">Tower</p>
+        <img class=" img-fluid keepr" src="/img/tower.png" alt="screenshot of TowerAp">
+      </div>
+    </a>
     <!-- <div class="card selectable mx-2">
       <p class="fs-4 p-2 text-center">theNetwork</p>
 

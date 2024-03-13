@@ -1,7 +1,7 @@
 <template>
   <div class="font">
     <p class="m-3 text-center ">About Me</p>
-    <p>
+    <p class="fs-2">
 
       Mom of 5, previous photographer and CEO of Floyd Family Photography, avid outdoor adventurer, Heather is a newly
       reinvented software developer. She is excited to work front end applications in order to help companies sell their
@@ -9,9 +9,11 @@
       is
       her desire and ambition.
     </p>
-    <button class="text-center m-3" onclick="sendEmail()">
-      Contact Heather
-    </button>
+    <div class="btn color">
+      <button class="m-3" @click="sendEmail()">
+        Contact Heather
+      </button>
+    </div>
     <hr class="m-3">
     <p class="m-3 text-center fs-2 ">
       <a href="https://www.linkedin.com/in/heathermjohnsonwebdev/"><i class="mdi mdi-linkedin"></i></a>
@@ -42,5 +44,9 @@ export default {
   font-weight: 400;
   font-style: normal;
   font-size: 75px;
+}
+
+.color {
+  background-color: #43c5b8
 }
 </style>
