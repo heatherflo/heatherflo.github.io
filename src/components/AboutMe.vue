@@ -54,5 +54,6 @@ export default {
   font-size: 20px;
   padding: 5px;
   color: black;
+  border: 2px solid black;
 }
 </style>
