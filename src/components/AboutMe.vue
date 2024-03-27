@@ -9,7 +9,7 @@
       products effectively and efficiently. Making beautiful designs functional to move businesses toward their goals,
       is her desire and ambition.
     </p>
-    <div class="btn btn-rounded d-flex justify-content-center">
+    <div class="btn btn-rounded button d-flex justify-content-center">
       <button class="m-3" @click="sendEmail()">
         Contact Heather
       </button>
@@ -44,5 +44,13 @@ export default {
   font-weight: 400;
   font-style: normal;
   font-size: 75px;
+}
+
+.button {
+  background-color: #43c5b8;
+  border-radius: 4px;
+  font-size: 20px;
+  padding: 5px;
+  color: black;
 }
 </style>
