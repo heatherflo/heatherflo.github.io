@@ -39,7 +39,7 @@
       <img class=" img-fluid keepr" src="/img/theNetwork.png" alt="screenshot of KeeprAp">
     </div> -->
   </div>
-  <hr class="m-3">
+  <!-- <hr class="m-3"> -->
 
   <!-- <section class="row">
     <div class="font">

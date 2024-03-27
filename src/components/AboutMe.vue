@@ -9,7 +9,7 @@
       products effectively and efficiently. Making beautiful designs functional to move businesses toward their goals,
       is her desire and ambition.
     </p>
-    <div class="btn btn-rounded button d-flex justify-content-center">
+    <div class=" button d-flex justify-content-center">
       <button class="m-3" @click="sendEmail()">
         Contact Heather
       </button>
@@ -17,7 +17,9 @@
     <hr class="m-3">
     <p class="m-3 text-center fs-2 ">
       <a href="https://www.linkedin.com/in/heathermjohnsonwebdev/"><i class="mdi mdi-linkedin"></i></a>
+      <a href="https://github.com/heatherflo"><i class="mdi mdi-github"></i></a>
     </p>
+
   </div>
 </template>
 
