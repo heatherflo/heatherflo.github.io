@@ -9,7 +9,7 @@
       products effectively and efficiently. Making beautiful designs functional to move businesses toward their goals,
       is her desire and ambition.
     </p>
-    <div class=" button d-flex justify-content-center">
+    <div class=" button ">
       <button class="m-3" @click="sendEmail()">
         Contact Heather
       </button>
