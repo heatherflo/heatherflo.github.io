@@ -4,7 +4,7 @@
 
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
 
-      <div class="text-dark fs-2 ">Heather Johnson</div>
+      <div class="text-dark fs-2 ">Heather Floyd</div>
     </router-link>
     <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
       aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">

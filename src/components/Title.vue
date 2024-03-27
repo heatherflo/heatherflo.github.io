@@ -2,10 +2,10 @@
 
   <div class="col-12 portfolio d-flex flex-column justify-content-center align-items-center ">
     <div>
-      <img class="img-fluid me" :src="'/img/me2.jpeg'" alt="self portrait of Heather Johnson">
+      <img class="img-fluid me" :src="'/img/Heather Floyd Headshots-17.jpg'" alt="self portrait of Heather Johnson">
     </div>
     <div class="name text-center">
-      Heather Johnson
+      Heather Floyd
     </div>
 
     <div class="fs-2">
