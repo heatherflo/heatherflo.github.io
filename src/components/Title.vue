@@ -5,7 +5,7 @@
       <img class="img-fluid me" :src="'/img/Heather Floyd Headshots-17.jpg'" alt="self portrait of Heather Johnson">
     </div>
     <div class="name text-center">
-      Heather Floyd
+      Heather Johnson
     </div>
 
     <div class="fs-2">
