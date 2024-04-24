@@ -1,9 +1,9 @@
 <template>
 
   <div class="col-12 portfolio d-flex flex-column justify-content-center align-items-center ">
-    <div>
+    <!-- <div>
       <img class="img-fluid me" :src="'/img/Heather Floyd Headshots-17.jpg'" alt="self portrait of Heather Johnson">
-    </div>
+    </div> -->
     <div class="name text-center">
       Heather Johnson
     </div>
@@ -11,6 +11,8 @@
     <div class="fs-2">
       Software Developer
     </div>
+    Motivated full-stack software developer. Ready to drive business success.
+    <div class="fs-3"></div>
 
   </div>
 </template>
@@ -28,7 +30,7 @@ export default {
 <style lang="scss" scoped>
 .portfolio {
   height: 85vh;
-  background-color: #43c5b8;
+  // background-color: #43c5b8;
   width: 100%;
 }
 
