@@ -5,7 +5,7 @@
     <router-link class="navbar-brand d-flex" :to="{ name: 'HomePage' }">
 
       <div class="text-dark fs-2 ">
-        <img src="/img/HJ.jpg" alt="HJ logo">
+        <img :src="'/img/HJ.jpg'" alt="HJ logo">
       </div>
     </router-link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
@@ -14,7 +14,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarText">
-      <ul class="navbar-nav me-auto">
+      <!-- <ul class="navbar-nav me-auto">
         <li>
           <router-link :to="{ name: 'HomePage' }" class="btn fs-4 text-dark lighten-30 selectable ">
             Apps
@@ -29,7 +29,7 @@
             About Me
           </router-link>
         </li>
-      </ul>
+      </ul> -->
       <router-link :to="{ name: 'HomePage' }" class="btn fs-4 text-dark lighten-30 selectable ">
         Apps
       </router-link>
