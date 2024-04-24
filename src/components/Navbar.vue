@@ -26,7 +26,7 @@
             Photos
           </router-link>
           <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable">
-            Contact
+            About Me
           </router-link>
         </li>
       </ul>
