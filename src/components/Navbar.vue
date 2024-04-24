@@ -2,11 +2,13 @@
   <nav class="container-fluid navbar navbar-expand-sm navbar-dark bg-light px-3 col-12 font   ">
 
 
-    <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
+    <router-link class="navbar-brand d-flex" :to="{ name: 'HomePage' }">
 
-      <div class="text-dark fs-2 ">Heather Johnson</div>
+      <div class="text-dark fs-2 ">
+        <img src="/img/HJ.jpg" alt="HJ logo">
+      </div>
     </router-link>
-    <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
       aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -14,11 +16,14 @@
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto">
         <li>
-          <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable ">
-            Portfolio
+          <router-link :to="{ name: 'HomePage' }" class="btn fs-4 text-dark lighten-30 selectable ">
+            Apps
           </router-link>
-          <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable">
-            About
+          <router-link :to="{ name: 'UXDesign' }" class="btn fs-4 text-dark lighten-30 selectable ">
+            UX Design
+          </router-link>
+          <router-link :to="{ name: 'Photos' }" class="btn fs-4 text-dark lighten-30 selectable">
+            Photos
           </router-link>
           <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable">
             Contact
@@ -26,7 +31,7 @@
         </li>
       </ul>
 
-    </div> -->
+    </div>
   </nav>
 </template>
 
