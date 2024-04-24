@@ -30,7 +30,15 @@
           </router-link>
         </li>
       </ul>
-
+      <router-link :to="{ name: 'HomePage' }" class="btn fs-4 text-dark lighten-30 selectable ">
+        Apps
+      </router-link>
+      <router-link :to="{ name: 'UXDesign' }" class="btn fs-4 text-dark lighten-30 selectable ">
+        UX Design
+      </router-link>
+      <router-link :to="{ name: 'Photos' }" class="btn fs-4 text-dark lighten-30 selectable">
+        Photos
+      </router-link>
       <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable">
         About Me
       </router-link>
