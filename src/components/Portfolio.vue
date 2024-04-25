@@ -13,7 +13,7 @@
   <div class="row">
 
     <div class="col-4"
-      :style="{ backgroundImage: '/img/keepr.png', height: '15vh', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'cover' }">
+      :style="{ backgroundImage: '/public/img/keepr.png', height: '15vh', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'cover' }">
 
       <div class=" d-flex text-box flex-column align-items-start justify-content-end">
         <h3 class="text-dark">Hover text</h3>
