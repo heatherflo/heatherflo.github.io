@@ -9,6 +9,23 @@
     <p class="text-center m-3">Applications</p>
   </div>
 
+
+  <div class="row">
+
+    <div class="col-4"
+      :style="{ backgroundImage: 'public/img/keepr.png', height: '15vh', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'cover' }">
+
+      <div class=" d-flex text-box flex-column align-items-start justify-content-end">
+        <h3 class="text-dark">Hover text</h3>
+
+      </div>
+    </div>
+
+  </div>
+
+
+
+
   <div class="d-flex col-12 justify-content-center  ">
     <a href="https://keepr.heathermaejohnson.com">
 
@@ -18,6 +35,9 @@
         <img class=" img-fluid keepr" src="/img/keepr.png" alt="screenshot of KeeprAp">
       </div>
     </a>
+
+
+
 
     <!-- <div class="card selectable mx-2">
 
@@ -145,6 +165,10 @@ export default {
   height: 20vh;
   width: auto;
 }
+
+// :hover {
+//   color:
+// }
 
 .font {
   font-family: "Shadows Into Light", cursive;
