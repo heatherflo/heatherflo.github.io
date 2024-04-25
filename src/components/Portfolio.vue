@@ -11,18 +11,18 @@
 
 
   <div class="row">
-    <div class="col-4 col-md-6 ">
+    <div class="col-6 col-md-4 ">
       <a href="https://keepr.heathermaejohnson.com">
         <img class="img-fluid hover" src="/img/keepr.png" alt="">
 
       </a>
     </div>
-    <div class="col-4 col-md-6">
+    <div class="col-6 col-md-4">
       <a href="https://tower.heathermaejohnson.com">
         <img class="img-fluid hover" src="/img/tower.png" alt="">
       </a>
     </div>
-    <div class="col-4 col-md-6">
+    <div class="col-6 col-md-4">
       <img class="img-fluid hover" src="/img/potholes.jpg" alt="">
     </div>
 
