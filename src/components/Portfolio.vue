@@ -11,148 +11,23 @@
 
 
   <div class="row">
-    <div class="col-4">
+    <div class="col-4 col-md-6 ">
       <a href="https://keepr.heathermaejohnson.com">
         <img class="img-fluid hover" src="/img/keepr.png" alt="">
 
       </a>
     </div>
-    <div class="col-4">
+    <div class="col-4 col-md-6">
       <a href="https://tower.heathermaejohnson.com">
         <img class="img-fluid hover" src="/img/tower.png" alt="">
       </a>
     </div>
-    <div class="col-4">
+    <div class="col-4 col-md-6">
       <img class="img-fluid hover" src="/img/potholes.jpg" alt="">
     </div>
 
 
   </div>
-
-
-
-
-  <div class="d-flex col-12 justify-content-center  ">
-    <a href="https://keepr.heathermaejohnson.com">
-
-      <div class="card selectable mx-2">
-        <p class="fs-4 p-2 text-center">Keepr</p>
-
-        <img class=" img-fluid keepr" src="/img/keepr.png" alt="screenshot of KeeprAp">
-      </div>
-    </a>
-
-
-
-
-    <!-- <div class="card selectable mx-2">
-
-      <p class="fs-4 p-2 text-center">allSpice</p>
-      <img class=" img-fluid keepr" src="/img/allSpice.png" alt="screenshot of KeeprAp">
-
-    </div> -->
-    <a href="https://tower.heathermaejohnson.com">
-
-      <div class="card selectable mx-2">
-
-        <p class="fs-4 p-2 text-center">Tower</p>
-        <img class=" img-fluid keepr" src="/img/tower.png" alt="screenshot of TowerAp">
-      </div>
-    </a>
-    <!-- <div class="card selectable mx-2">
-      <p class="fs-4 p-2 text-center">theNetwork</p>
-
-      <img class=" img-fluid keepr" src="/img/theNetwork.png" alt="screenshot of KeeprAp">
-    </div> -->
-  </div>
-  <!-- <hr class="m-3"> -->
-
-  <!-- <section class="row">
-    <div class="font">
-
-      <p class="m-3 text-center m-3">Pictures</p>
-    </div> -->
-
-  <!-- carrousel -->
-
-
-  <!-- <div id="portfolio" class="carousel slide carousel-dark" data-bs-ride="carousel">
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-        <img src="src/assets/img/backpack.jpg" class="d-block w-75" alt="...">
-      </div>
-        <div class="carousel-item active">
-          <img src="/img/bluelake.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/boardwalk.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/brian.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/camp.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/crators.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/hiddensprings.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/kenz.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/ladies.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/Leslie.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/leslie2.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/mountain.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/ocean.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/ocean2.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/potholes.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/towels.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/trees.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/winter.jpg" class="d-block w-95" alt="...">
-        </div>
-        <div class="carousel-item ">
-          <img src="/img/yosemite.jpg" class="d-block w-95" alt="...">
-        </div>
-      </div>
-      <button class="carousel-control-prev text-dark" type="button" data-bs-target="#portfolio" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#portfolio" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div> -->
-
-
-  <!-- </section> -->
-
-
-
-
-
 
 </template>
 
