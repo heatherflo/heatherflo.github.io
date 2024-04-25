@@ -12,8 +12,9 @@
 
   <div class="row">
 
+    <img class="img-fluid keepr" src="/img/keepr.png" alt="">
     <div class="col-4"
-      :style="{ backgroundImage: 'src/assets/img/keepr.png', height: '15vh', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'cover' }">
+      :style="{ backgroundImage: 'src/assets/img/keepr.png', height: '45vh', backgroundPosition: 'cover' }">
 
       <div class=" d-flex text-box flex-column align-items-start justify-content-end">
         <h3 class="text-dark">Hover text</h3>
