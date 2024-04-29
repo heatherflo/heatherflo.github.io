@@ -1,20 +1,20 @@
 <template>
   <nav class="container-fluid">
-    <div class="col-12 d-flex">
+    <div class="col-12 d-flex m-2">
       <router-link :to="{ name: 'Home' }">
         <img class="img-fluid logo" src="/src/assets/img/HJ.jpg" alt="HJ logo ">
 
       </router-link>
       <router-link :to="{ name: 'About' }">
-        <div class="font ">About Me</div>
+        <div class="font fs-2 ">About Me</div>
       </router-link>
       <router-link :to="{ name: 'UX Design' }">
 
-        <div class="font">UX Design</div>
+        <div class="font fs-2">UX Design</div>
       </router-link>
       <router-link :to="{ name: 'Photos' }">
 
-        <div class="font">Photos</div>
+        <div class="font fs-2">Photos</div>
       </router-link>
 
 
@@ -45,8 +45,8 @@ export default {
 }
 
 .logo {
-  max-width: 30px;
-  max-height: 30px;
+  max-width: 40px;
+  max-height: 40px;
   color: black;
 }
 
