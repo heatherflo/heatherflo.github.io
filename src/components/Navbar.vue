@@ -1,15 +1,18 @@
 <template>
   <nav class="container-fluid">
-    <div class="col-12">
-      <router-link class="" :to="{ name: 'HomePage' }">
+    <div class="col-12 d-flex">
+      <router-link :to="{ name: 'HomePage' }">
         <img class="img-fluid logo" src="/src/assets/img/HJ.jpg" alt="HJ logo ">
 
       </router-link>
-      <router-link class="font " :to="{ name: 'AboutPage' }">
-        About Me
+      <router-link :to="{ name: 'AboutPage' }">
+        <div class="font ">About Me</div>
       </router-link>
-      <p class="font">UX Design</p>
-      <p class="font">Photos</p>
+
+      <div class="font">UX Design</div>
+      <div class="font">Photos</div>
+
+
     </div>
 
   </nav>
