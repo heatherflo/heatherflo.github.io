@@ -2,13 +2,13 @@
   <nav class="container-fluid">
     <div class="row">
 
-      <div class="col-2">
+      <div class="col-2 d-flex">
         <router-link :to="{ name: 'Home' }">
           <img class="img-fluid logo m-2" src="/src/assets/img/HJ.jpg" alt="HJ logo ">
         </router-link>
       </div>
 
-      <div class="col-8 justify-content-end">
+      <div class="col-8 d-flex justify-content-end">
         <router-link :to="{ name: 'UX Design' }">
 
           <div class="font fs-2 m-2">UXDesign</div>
