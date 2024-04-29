@@ -6,7 +6,7 @@
       </router-link>
     </div>
 
-    <div class="col-10 d-flex justify-content-end">
+    <div class="col-8 d-flex justify-content-end">
       <router-link :to="{ name: 'UX Design' }">
 
         <div class="font fs-2 m-2">UXDesign</div>
