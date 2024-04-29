@@ -17,6 +17,16 @@ const routes = [
     component: loadPage('AboutPage')
   },
   {
+    path: '/UXDesign',
+    name: 'UX Design',
+    component: loadPage('UXDesign')
+  },
+  {
+    path: '/Photos',
+    name: 'Photos',
+    component: loadPage('Photos')
+  },
+  {
     path: '/portfolio',
     name: 'Portfolio',
     component: loadPage('PortfolioPage')

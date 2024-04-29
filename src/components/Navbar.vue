@@ -1,18 +1,21 @@
 <template>
   <nav class="container-fluid">
     <div class="col-12 d-flex">
-      <router-link :to="{ name: 'HomePage' }">
+      <router-link :to="{ name: 'Home' }">
         <img class="img-fluid logo" src="/src/assets/img/HJ.jpg" alt="HJ logo ">
 
       </router-link>
-      <router-link :to="{ name: 'AboutPage' }">
+      <router-link :to="{ name: 'About' }">
         <div class="font ">About Me</div>
       </router-link>
-      <router-link :to="{ name: 'UXDesign' }">
+      <router-link :to="{ name: 'UX Design' }">
 
         <div class="font">UX Design</div>
       </router-link>
-      <div class="font">Photos</div>
+      <router-link :to="{ name: 'Photos' }">
+
+        <div class="font">Photos</div>
+      </router-link>
 
 
     </div>
@@ -21,7 +24,7 @@
 </template>
 
 <script>
-import { RouterLink } from 'vue-router';
+
 export default {
   setup() {
 
