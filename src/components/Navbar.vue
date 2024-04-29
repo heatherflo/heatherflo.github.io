@@ -8,8 +8,10 @@
       <router-link :to="{ name: 'AboutPage' }">
         <div class="font ">About Me</div>
       </router-link>
+      <router-link :to="{ name: 'UXDesign' }">
 
-      <div class="font">UX Design</div>
+        <div class="font">UX Design</div>
+      </router-link>
       <div class="font">Photos</div>
 
 
