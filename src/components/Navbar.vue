@@ -4,7 +4,7 @@
       <img class="img-fluid logo" src="/src/assets/img/HJ.jpg" alt="HJ logo ">
 
     </router-link>
-    <router-link class="font" :to="{ name: 'AboutPage' }">
+    <router-link class="font " :to="{ name: 'AboutPage' }">
       About Me
     </router-link>
 
@@ -29,11 +29,13 @@ export default {
   font-family: "Shadows Into Light", cursive;
   font-weight: 400;
   font-style: normal;
+  color: black;
 }
 
 .logo {
-  max-width: 20px;
-  max-height: 20px;
+  max-width: 30px;
+  max-height: 30px;
+  color: black;
 }
 
 @media screen and (min-width: 576px) {
