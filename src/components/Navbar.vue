@@ -1,10 +1,10 @@
 <template>
-  <nav class="container-fluid coll-12 font">
+  <nav class="container-fluid col-12">
     <router-link class="" :to="{ name: 'HomePage' }">
       <img class="img-fluid logo" src="/src/assets/img/HJ.jpg" alt="HJ logo ">
 
     </router-link>
-    <router-link :to="{ name: 'AboutPage' }">
+    <router-link class="font" :to="{ name: 'AboutPage' }">
       About Me
     </router-link>
 
