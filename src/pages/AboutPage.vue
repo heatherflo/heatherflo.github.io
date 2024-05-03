@@ -2,7 +2,7 @@
   <div class="container-fluid">
 
     <div class="row">
-      <div class="col-12">
+      <div class="col-10">
         <img class="m-3 me" src="/src/assets/img/me2.jpeg" alt="">
 
       </div>
@@ -32,8 +32,8 @@ export default {
 <style scoped lang="scss">
 .me {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 50%;
+  margin-right: 50%;
   object-fit: cover;
   border-radius: 50%;
   width: 300px;
