@@ -31,12 +31,12 @@ export default {
 
 <style lang="scss" scoped>
 .img {
-  display: inline;
+  display: block;
   object-fit: center;
   width: 400px;
   height: 300px;
   margin: 0%;
-  margin-inline-start: auto;
-  margin-inline-end: auto;
+  margin-block-start: auto;
+  margin-block-end: auto;
 }
 </style>
