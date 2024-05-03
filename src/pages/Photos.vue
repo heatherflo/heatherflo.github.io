@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid">
     <div class="row">
-      <div class="col center">
+      <div class="col center mt-3">
         <img class="img" src="/src/assets/img/backpack.jpg" alt="">
         <img class="img" src="/src/assets/img/boardwalk.jpg" alt="">
         <img class="img" src="/src/assets/img/brian.jpg" alt="">
@@ -10,6 +10,16 @@
         <img class="img" src="/src/assets/img/camp.jpg" alt="">
         <img class="img" src="/src/assets/img/ladies.jpg" alt="">
         <img class="img" src="/src/assets/img/kenz.jpg" alt="">
+        <img class="img" src="/src/assets/img/Leslie.jpg" alt="">
+        <img class="img" src="/src/assets/img/leslie2.jpg" alt="">
+        <img class="img" src="/src/assets/img/mountain.jpg" alt="">
+        <img class="img" src="/src/assets/img/ocean.jpg" alt="">
+        <img class="img" src="/src/assets/img/ocean2.jpg" alt="">
+        <img class="img" src="/src/assets/img/potholes.jpg" alt="">
+        <img class="img" src="/src/assets/img/towels.jpg" alt="">
+        <img class="img" src="/src/assets/img/trees.jpg" alt="">
+        <img class="img" src="/src/assets/img/winter.jpg" alt="">
+        <img class="img" src="/src/assets/img/yosemite.jpg" alt="">
       </div>
     </div>
 
