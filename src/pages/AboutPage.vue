@@ -1,7 +1,7 @@
 <template>
   <div class="row">
-    <div class="col-12 d-flex justify-content-center me">
-      <img class="img-fluid" src="/src/assets/img/me2.jpeg" alt="">
+    <div class="col-12 justify-content-center">
+      <img class="img-fluid me" src="/src/assets/img/me2.jpeg" alt="">
 
     </div>
     <div>
