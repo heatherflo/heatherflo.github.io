@@ -1,6 +1,6 @@
 <template>
   <div class="row">
-    <div class="col-12 d-flex justify-content-center">
+    <div class="col-12 d-flex justify-content-center me">
       <img class="img-fluid" src="/src/assets/img/me2.jpeg" alt="">
 
     </div>
@@ -26,3 +26,11 @@ export default {
   }
 }
 </script>
+<style scoped lang="scss">
+.me {
+  object-fit: cover;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+</style>
