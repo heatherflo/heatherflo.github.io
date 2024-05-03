@@ -31,7 +31,7 @@ export default {
 
 <style lang="scss" scoped>
 .img {
-  display: block;
+  display: grid;
   object-fit: center;
   width: 400px;
   height: 300px;
