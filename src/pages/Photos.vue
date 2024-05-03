@@ -58,8 +58,8 @@ export default {
 <style lang="scss" scoped>
 .img {
   object-fit: center;
-  width: 425px;
-  height: 300px;
+  width: 1200px;
+  height: 800px;
   margin: 0%;
 }
 
