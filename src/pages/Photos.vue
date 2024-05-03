@@ -40,7 +40,7 @@ export default {
 .center {
   width: 90%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 </style>
