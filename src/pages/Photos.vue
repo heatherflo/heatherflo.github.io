@@ -2,7 +2,6 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col center">
-        This page will house my portfolio of images. Check back later for updates.
         <img class="img" src="/src/assets/img/backpack.jpg" alt="">
         <img class="img" src="/src/assets/img/boardwalk.jpg" alt="">
         <img class="img" src="/src/assets/img/brian.jpg" alt="">
@@ -38,9 +37,9 @@ export default {
 }
 
 .center {
-  width: 90%;
+
   display: block;
-  margin-left: 50%;
-  margin-right: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
