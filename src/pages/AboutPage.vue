@@ -1,6 +1,6 @@
 <template>
   <div class="row">
-    <div class="col-12 d-flex justify-content-center">
+    <div class="col-12">
       <img class="me" src="/src/assets/img/me2.jpeg" alt="">
 
     </div>
@@ -28,7 +28,7 @@ export default {
 </script>
 <style scoped lang="scss">
 .me {
-  display: block;
+
   margin-left: 50%;
   margin-right: 50%;
   object-fit: cover;
