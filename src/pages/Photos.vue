@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid">
     <div class="row">
-      <div class="col-4 center mt-3">
+      <div class="col-12 center mt-3">
         <img class="img" src="/src/assets/img/backpack.jpg" alt="">
         <img class="img" src="/src/assets/img/boardwalk.jpg" alt="">
         <img class="img" src="/src/assets/img/brian.jpg" alt="">
