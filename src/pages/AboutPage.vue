@@ -32,8 +32,7 @@ export default {
 <style scoped lang="scss">
 .me {
   display: block;
-  margin-left: 50%;
-  margin-right: 50%;
+  margin: auto;
   object-fit: cover;
   border-radius: 50%;
   width: 300px;
