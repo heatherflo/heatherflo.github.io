@@ -36,6 +36,8 @@
         <img class="img img-fluid" src="/src/assets/img/surprise.jpg" alt="">
         <img class="img img-fluid" src="/src/assets/img/tennis.jpg" alt="">
         <img class="img img-fluid" src="/src/assets/img/trampoline.jpg" alt="">
+        <img class="img img-fluid" src="/src/assets/img/bluelake2.jpg" alt="">
+        <img class="img img-fluid" src="/src/assets/img/crators2.jpg" alt="">
 
       </div>
     </div>
