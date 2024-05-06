@@ -11,7 +11,7 @@
       <div class="image-container" @mouseover="showText('keepr')" @mouseleave="hideText('keepr')">
         <a href="https://keepr.heathermaejohnson.com">
           <img class="img-fluid hover" src="/img/keepr.png" alt="">
-          <div class="hover-text" v-show="showKeepr">Keepr</div>
+          <div class="hover-text font" v-show="showKeepr">Keepr</div>
         </a>
       </div>
     </div>
@@ -19,7 +19,7 @@
       <div class="image-container" @mouseover="showText('tower')" @mouseleave="hideText('tower')">
         <a href="https://tower.heathermaejohnson.com">
           <img class="img-fluid hover" src="/img/tower.png" alt="">
-          <div class="hover-text" v-show="showTower">Tower</div>
+          <div class="hover-text font" v-show="showTower">Tower</div>
         </a>
       </div>
     </div>
@@ -80,10 +80,10 @@ img:hover {
 
 .hover-text {
   position: absolute;
-  top: 0;
+  top: 50%;
   left: 50%;
   transform: translateX(-50%);
-  background-color: rgba(255, 255, 255, 0.8);
+  // background-color: rgba(255, 255, 255, 0.8);
   padding: 5px;
   border-radius: 5px;
   display: none;
