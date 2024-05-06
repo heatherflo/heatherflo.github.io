@@ -29,8 +29,7 @@ export default {
 
 <style lang="scss" scoped>
 .portfolio {
-  height: 35vh;
-  // background-color: #43c5b8;
+  height: 30vh;
   width: 100%;
 }
 
