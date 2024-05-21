@@ -2,7 +2,7 @@
   <nav class="container-fluid">
     <div class="row">
 
-      <div class="col-10 d-flex m-3 justify-content-center">
+      <div class="col-12 d-flex fs-3 m-3 justify-content-center">
         <a href="https://instagram.com/mmsgoadventure"><i class="mdi mdi-instagram"></i></a>
 
         <a href="https://github.com/heatherflo"><i class="mdi mdi-github"></i></a>
